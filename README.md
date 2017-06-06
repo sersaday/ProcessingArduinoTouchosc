@@ -2,7 +2,7 @@
 Processing Arduino(firmata) TouchOsc
 
 1-Arduinoya Standart firmata yüklenir
-2-processing arduino(firmata) ve oscp5 kütüphaneleri eklenir
+2-processing arduino(firmata)  oscp5 controlp5 kütüphaneleri eklenir
 3-Processing programına bu program yazılır
 4-Güvenlik duvarı(Firewall) açılır(Windows işlemtim sistemi için)
 5-Gerekli bağlantılar yapılır.
